@@ -1,0 +1,15 @@
+Solusi ditemukan:
+AAABB
+AAFFB
+AACFB
+ACCFB
+DDCCG
+DEEEG
+DDEGG
+HHIIG
+JHHII
+JKKKI
+JJJKK
+
+Jumlah Percobaan = 162610522
+Waktu Eksekusi = 747 ms

@@ -1,0 +1,9 @@
+Solusi ditemukan:
+AABBD
+ACBDD
+FCCEG
+FFEEG
+FFEEG
+
+Jumlah Percobaan = 12907
+Waktu Eksekusi = 2 ms

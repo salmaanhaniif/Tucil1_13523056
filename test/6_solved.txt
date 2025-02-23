@@ -1,0 +1,8 @@
+Solusi ditemukan:
+AABCGGG
+FABCCCG
+FBBDEEG
+FFDDDEE
+
+Jumlah Percobaan = 1753997
+Waktu Eksekusi = 27 ms

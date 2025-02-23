@@ -1,0 +1,9 @@
+Solusi ditemukan:
+AAAA
+BACC
+BBCD
+EBBD
+EEFF
+
+Jumlah Percobaan = 4471
+Waktu Eksekusi = 1 ms

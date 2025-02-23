@@ -1,0 +1,12 @@
+Solusi ditemukan:
+ABBBB
+AACBC
+DACCC
+DDEEE
+FFFFE
+FGGHE
+GGHHH
+GIIII
+
+Jumlah Percobaan = 46416393
+Waktu Eksekusi = 288 ms

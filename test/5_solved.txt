@@ -1,0 +1,9 @@
+Solusi ditemukan:
+AAABBCC
+ADDBBBC
+AEDDFFC
+EEDFFGC
+EHHFGGG
+
+Jumlah Percobaan = 385743
+Waktu Eksekusi = 12 ms

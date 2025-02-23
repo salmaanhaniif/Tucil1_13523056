@@ -1,0 +1,8 @@
+Solusi ditemukan:
+AAAC
+BBDC
+EBDF
+EEEF
+
+Jumlah Percobaan = 2429
+Waktu Eksekusi = 1 ms
