@@ -9,9 +9,9 @@ Komponen dari permainan IQ Puzzler Pro terdiri dari: Board dan Piece.
 Program ini dibuat untuk membantu menyelesaikan permainan ini, mencari konfigurasi yang tepat dari setiap piece untuk memenangkan permainan. Ukuran papan dan bentuk dari setiap piece sendiri dapat dibuat sesuka hati oleh pengguna, pastikan bahwa piece-piece yang dibuat memiliki susunan yang dapat memenuhi board.
 Format input untuk program ini berupa file berbasis text dengan format .txt sebagai berikut.
 
-ex. quiz.txt
+ex. > quiz.txt
 
-3 3 4   [ Panjang board 3, lebar board 3, jumlah piece 4 ]
+> 3 3 4   [ Panjang board 3, lebar board 3, jumlah piece 4 ]
 DEFAULT
 A      [ piece
 AA       ke-1 ]
@@ -28,16 +28,18 @@ Pada repository ini sudah terdapat folder bin yang merupakan file hasil compile 
 
 Cara menjalankan program :
 1. Clone repository ini pada folder dengan command git :
-'''clone "https://github.com/salmaanhaniif/Tucil1_13523056.git"
-2. Di terminal, jalankan command untuk masuk ke folder repo 
-'''ex. cd "path/to/Tucil1_13523056"
-3. Siapkan file txt case dengan format seperti di atas, terdapat juga contoh di folder repo/test
-4. Masuk ke folder bin dengan command
-'''cd bin
-5. Jalankan Main.class dengan command
-'''java Main
-6. Ikuti instruksi program dan masukkan path file txt (relative to Main.class)
-'''ex. ../test/case.txt
+```
+git clone "https://github.com/salmaanhaniif/Tucil1_13523056.git"
+```
+3. Di terminal, jalankan command untuk masuk ke folder repo 
+'''ex. ``` cd "path/to/Tucil1_13523056" ```
+4. Siapkan file txt case dengan format seperti di atas, terdapat juga contoh di folder repo/test
+5. Masuk ke folder bin dengan command
+```cd bin```
+6. Jalankan Main.class dengan command
+```java Main```
+7. Ikuti instruksi program dan masukkan path file txt (relative to Main.class)
+ex. ```../test/case.txt```
 
 
 # Salman Hanif
