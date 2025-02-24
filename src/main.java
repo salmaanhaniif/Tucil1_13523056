@@ -127,10 +127,10 @@ public class Main {
 
         // is Puzzle Solvable?
         int totalPieceSize = 0;
-        System.out.println("tinggi & lebar = " + tinggi + lebar);
+        // System.out.println("tinggi & lebar = " + tinggi + lebar);
         for (Piece piece : pieces) {
             totalPieceSize += Piece.getPieceSize(piece);
-            piece.displayPiece();
+            // piece.displayPiece();
             if ( piece.getTinggi() > tinggi || piece.getLebar()>lebar) {
                 System.out.println("\nNo solution\n");
                 return;
