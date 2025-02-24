@@ -42,4 +42,6 @@ git clone "https://github.com/salmaanhaniif/Tucil1_13523056.git"
 ex. ```../test/case.txt```
 
 
-# Salman Hanif
+### Salman Hanif
+### 13523056
+### Institut Teknologi Bandung
