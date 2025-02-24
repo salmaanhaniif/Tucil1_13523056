@@ -11,14 +11,14 @@ Format input untuk program ini berupa file berbasis text dengan format .txt seba
 
 ex. > quiz.txt
 
-> 3 3 4   [ Panjang board 3, lebar board 3, jumlah piece 4 ]
-DEFAULT
-A      [ piece
-AA       ke-1 ]
-BB     [ piece
- B      ke-2 ]
-C         dst
-C
+> 3 3 4   [ Panjang board 3, lebar board 3, jumlah piece 4 ] <br>
+DEFAULT <br>
+A      [ piece <br>
+AA       ke-1 ] <br>
+BB     [ piece <br>
+ B      ke-2 ] <br>
+C         dst <br>
+C <br>
 DD
 
 Program ini ditulis dalam Bahasa Java dan masih berbasis Command Line Interface (CLI). Sehingga untuk menjalankan program ini, user harus meng-install JDE (Java Development Kit). Versi Java yang digunakan untuk menulis program ini (20 Februari 2025) adalah Java versi 23, sehingga user harus menggunakan versi yang sama atau lebih baru. JDK dapat di-unduh di tautan terlampir.
