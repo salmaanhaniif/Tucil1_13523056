@@ -1,4 +1,5 @@
-import java.util.*;
+import java.util.HashMap;
+import java.util.Map;
 
 public class Board {
 
@@ -72,7 +73,8 @@ public class Board {
         int tinggiPiece = piece.getTinggi();
         int lebarPiece = piece.getLebar();
 
-        if (x < 0 || y < 0 || x + lebarPiece > board.getKolom() || y + tinggiPiece > board.getBaris()) {
+        if (x < 0 || y < 0 || x + lebarPiece > board.getKolom() 
+        || y + tinggiPiece > board.getBaris()) {
             return false;
         }
 
@@ -102,7 +104,8 @@ public class Board {
                 if (bentuk[i][j] != '.') {
                     int newY = y + i; // Baris
                     int newX = x + j; // Kolom
-                    if (newY >= 0 && newY < board.getBaris() && newX >= 0 && newX < board.getKolom()) { // ✅ Cek batas
+                    if (newY >= 0 && newY < board.getBaris() && 
+                    newX >= 0 && newX < board.getKolom()) {
                         board.papan[newY][newX] = bentuk[i][j];
                     }
                 }
@@ -133,8 +136,9 @@ public class Board {
                 if (bentuk[i][j] != '.') {
                     int newY = y + i; // Baris
                     int newX = x + j; // Kolom
-                    if (newY >= 0 && newY < board.getBaris() && newX >= 0 && newX < board.getKolom()) { // ✅ Cek batas
-                        board.papan[newY][newX] = '.'; // Kosongkan kembali posisi
+                    if (newY >= 0 && newY < board.getBaris() && newX >= 0 
+                    && newX < board.getKolom()) {
+                        board.papan[newY][newX] = '.'; // Kosongkan posisi
                     }
                 }
             }
