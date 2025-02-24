@@ -28,18 +28,16 @@ Pada repository ini sudah terdapat folder bin yang merupakan file hasil compile 
 
 Cara menjalankan program :
 1. Clone repository ini pada folder dengan command git :
-```
-git clone "https://github.com/salmaanhaniif/Tucil1_13523056.git"
-```
-3. Di terminal, jalankan command untuk masuk ke folder repo 
-'''ex. ``` cd "path/to/Tucil1_13523056" ```
-4. Siapkan file txt case dengan format seperti di atas, terdapat juga contoh di folder repo/test
-5. Masuk ke folder bin dengan command
-```cd bin```
-6. Jalankan Main.class dengan command
-```java Main```
-7. Ikuti instruksi program dan masukkan path file txt (relative to Main.class)
-ex. ```../test/case.txt```
+```git clone "https://github.com/salmaanhaniif/Tucil1_13523056.git"```
+3. Di terminal, jalankan command untuk masuk ke folder repo
+   ex. ``` cd "path/to/Tucil1_13523056" ```
+5. Siapkan file txt case dengan format seperti di atas, terdapat juga contoh di folder repo/test
+6. Masuk ke folder bin dengan command
+   ```cd bin```
+7. Jalankan Main.class dengan command
+   ```java Main```
+9. Ikuti instruksi program dan masukkan path file txt (relative to Main.class)
+    ex. ```../test/case.txt```
 
 
 ### Salman Hanif
